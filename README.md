@@ -55,6 +55,7 @@ AI-Hand-Gesture-Mouse/
 ├── README.md
 ├── .gitignore
 └── screenshots/
+    └── demo.png
 ```
 
 ---
@@ -136,13 +137,13 @@ python main.py
 
 ---
 
+## 📸 Demo
 
-```text
-screenshots/
-├── hand_detection.png
-├── cursor_tracking.png
-└── gesture_demo.png
-```
+![alt text](image.png)
+
+The pink rectangle shows the active tracking region — moving the index finger within this box controls the cursor across the full screen.
+
+---
 
 ## 👩‍💻 Developer
 
